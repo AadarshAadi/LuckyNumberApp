@@ -7,8 +7,6 @@ The Lucky Number App is an Android application that generates a random lucky num
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Code Overview](#code-overview)
-- [License](#license)
 
 ## Features
 
